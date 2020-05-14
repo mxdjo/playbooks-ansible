@@ -1,2 +1,2 @@
-slave1
-192.168.56.102
+slave1 ansible_user=vagrant
+192.168.56.102 ansible_python_interpreter=/usr/bin/python3.6 ansible_user=vagrant
